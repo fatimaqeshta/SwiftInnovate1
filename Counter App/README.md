@@ -33,11 +33,3 @@ To run the app:
 2. Select an iOS simulator or a real device.
 3. Click **Run** ▶️ to launch the app.
 
-## 🚀 Screenshots
-
-You can add screenshots here to visually demonstrate your app’s functionality.
-
----
-
-If you want me to add images, animations, or even emojis for fun touches, just let me know 😊  
-وإذا عندك كود لتطبيق ثاني، أنا جاهزة!
