@@ -17,7 +17,7 @@ An interactive number-guessing game built with **SwiftUI**, featuring difficulty
 
 ## 📹 Project Video
 
-Watch a short demo of one of the projects:  
+Watch a short demo of Guess The Number Game:  
 👉 [https://www.canva.com/design/DAGkAR2oiy8/NSN7139ri9Za6NATa3qYMw/edit?utm_content=DAGkAR2oiy8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🛠 Technologies Used
